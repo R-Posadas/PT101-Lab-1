@@ -1,0 +1,64 @@
+[
+  {
+    "users1": {
+      "id": 1,
+      "companyName": "Techno Trade",
+      "employees": [
+        "John",
+        "Johnlloyd",
+        "Johncent"
+      ],
+      "positions": [
+        "Chairman",
+        "Tableman",
+        "Floorman"
+      ],
+      "location": "Davao"
+    },
+    "users2": {
+      "id": 2,
+      "companyName": "Edgar INC.",
+      "employees": [
+        "Ed",
+        "Edd",
+        "Eddy"
+      ],
+      "positions": [
+        "Manager",
+        "CEO",
+        "Designer"
+      ],
+      "location": "Digos"
+    },
+    "users3": {
+      "id": 3,
+      "companyName": "Web Dev Company",
+      "employees": [
+        "John Doe",
+        "Jane Smith",
+        "Bob Johnson"
+      ],
+      "positions": [
+        "Manager",
+        "Developer",
+        "Designer"
+      ],
+      "location": "Cebu"
+    },
+    "users4": {
+        "id": 4,
+        "companyName": "Mid Company",
+        "employees": [
+          "Anna",
+          "Marie",
+          "Maria"
+        ],
+        "positions": [
+          "Engineer",
+          "Analyst",
+          "Technician"
+        ],
+        "location": "Bermuda"
+      }
+  }
+]
